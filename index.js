@@ -49,7 +49,7 @@ $(document).ready(function () {
     itemNum.attr('class', 'col-xs-1 item-id');
     var itemID = 0;
 
-    // Determins whether added item is retrieved from server or new to list from DOM entry
+    // Determines whether added item is retrieved from server or new to list from user DOM entry
     if (input) {
       itemName.text(input);
       if (isComplete) {
