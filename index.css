@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  text-decoration-thickness: 3px;
+}
+
+input {
+  color: black;
+}
+
+#todo-list {
+  background-color: white;
+}
+
+#title {
+  color: white;
+}
